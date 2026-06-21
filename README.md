@@ -45,11 +45,10 @@
 
 ### TODO List
 
-- [ ] Release the arXiv version.
-- [ ] The code for OAFuser has been released.
-- [ ] The integration of Code will be released.
-- [ ] Train and Eval strategy will be released.
-- [ ] Checkpoints will be released.
+- [·] Release the arXiv version.
+- [·] The code has been released.
+- [·] The integration of Code is released.
+- [·] Train and Eval strategy will be released.
 
 ### Abstract
 
