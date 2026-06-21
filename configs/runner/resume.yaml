@@ -1,0 +1,12 @@
+# @package _global_
+defaults:
+  - /runner/default
+
+runner:
+  checkpointing_steps: 1000
+  validation_steps: 100000000
+  lr_scheduler: constant_with_warmup
+  enable_xformers_memory_efficient_attention: true
+
+resume_from_checkpoint: null
+resume_reset_scheduler: false

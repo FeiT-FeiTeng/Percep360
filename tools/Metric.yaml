@@ -1,0 +1,9 @@
+weights:
+  - "pretrained/your-finetuned-weight"
+
+base_fid_path: "magicdrive-log/fid"
+task_id: "224x400"
+
+tasks:
+  - name: "Gen_Img"
+    tool: "perception/data_prepare/val_set_gen.py"

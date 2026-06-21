@@ -1,0 +1,8 @@
+device: null
+num_workers: 10
+save_stats: false
+batch_size: 128
+dims: 2048
+ratio: -1
+roota: ./data/nuscenes/samples
+rootb: ???
