@@ -81,6 +81,10 @@ data/
 pretrained/
 ```
 
+## Data Preparation
+
+Please follow the data preparation protocol from [OneBEV](https://github.com/JialeWei/OneBEV/tree/main).
+
 ## Train
 
 Four-GPU training:
